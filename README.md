@@ -1,4 +1,4 @@
-***YO BRO 
+
 1.**Clone the repo**
 
 ```
@@ -9,7 +9,7 @@ $ cd Crypto-RN
 
 ```
 $ npm install
-$ brew install watchman
+
 ```
 3.**Start Packager**
 
@@ -19,10 +19,10 @@ $ npm start
 4.**Running on iOS:**
 
 ```
-$ react-native run-ios
+$ npm run-ios
 ```
 5.**Running on Android:**
 
 ```
-$ react-native run-android
+$ npm run-android
 ```
